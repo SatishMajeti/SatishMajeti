@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @SatishMajeti
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @SatishMajeti.
+- 👀 I’m a Data_Science enthusiast.
+- ⚡ Skills: Python, PowerBI, Data Analysis, MySql.
+- 🌱 I’m currently learning Machine Learning.
+- https://review-scrappertest.herokuapp.com/ 👈 This is the project that I have done. Kindly have a look on it.
+- 📫 How to reach me www.linkedin.com/in/majetinvsatishkumar27.
 
 <!---
 SatishMajeti/SatishMajeti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
