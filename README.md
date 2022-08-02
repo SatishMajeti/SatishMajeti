@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SatishMajeti.
 - 👀 I’m a Data_Science enthusiast.
-- ⚡ Skills: Python, PowerBI, Data Analysis, MySql.
+- ⚡ Skills: Python, PowerBI, Data Analysis, MySql, Excel.
 - 🌱 I’m currently learning Machine Learning.
 - https://review-scrappertest.herokuapp.com/ 👈 This is the project that I have done. Kindly have a look on it.
 - 📫 How to reach me www.linkedin.com/in/majetinvsatishkumar27.
